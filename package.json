@@ -1,0 +1,9 @@
+{
+  "name": "addition_daxpy",
+  "version": "0.1.0",
+  "repo": "hcnn/addition_daxpy",
+  "description": "add vector elementwise to a scale vector. similar to daxpy.",
+  "keywords": ["daxpy", "vector addition"],
+  "license": "MIT",
+  "src": ["addition_daxpy.c", "addition_daxpy.h"]
+}
